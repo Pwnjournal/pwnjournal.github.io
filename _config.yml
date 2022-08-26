@@ -1,5 +1,5 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
+title: PwnJournal
 description: "A blog about lorem ipsum ..."
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
 url: "https://pwnjournal.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
@@ -57,12 +57,11 @@ links:
 
 # projects in header index
 projects:
-  - name: fluany
-    url: https://github.com/fluany/fluany
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+  - name: PwnJournal
+    url: https://github.com/Pwnjournal/pwnjournal.github.io
+  - name: Hacking Journey
+    url: https://github.com/dascalustefan/Hacking-Journey
+  - name: EvilScope (private project)
 
-# exclude my node related stuff
+
 exclude: ['package.json', 'src', 'node_modules']
