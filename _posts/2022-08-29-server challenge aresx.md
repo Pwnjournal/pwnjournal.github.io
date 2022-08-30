@@ -4,11 +4,10 @@ title:  server challenge aresx
 image: /assets/img/aresx.png
 date:   2022-08-29 21:52:19
 tags:
-
+- web
 description: The challenge has two separate webpages one which is vulnerable to xss attacks and from which we must steal a cookie, and another where we can send links to be opened:
-
 categories:
-
+- web
 ---
 
 The challenge has two separate webpages one which is vulnerable to xss attacks and from which we must steal a cookie, and another where we can send links to be opened:

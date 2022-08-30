@@ -6,7 +6,6 @@ date:   2022-08-29 21:52:19
 tags:
 -forensics
 description: Document xoring with given key, easy for
-
 categories:
 - SHELLCTF 22
 ---
