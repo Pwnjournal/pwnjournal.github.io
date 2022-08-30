@@ -6,7 +6,6 @@ date:   2022-08-29 21:52:19
 tags:
 - rev
 description: Reversing operations to embedded flag rev easy
-
 categories:
 - SHELLCTF 22
 ---

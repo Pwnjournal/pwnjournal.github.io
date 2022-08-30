@@ -4,7 +4,7 @@ title:  secret document SHELLCTF 22
 image: /assets/img/SHELL CTF 2022.png
 date:   2022-08-29 21:52:19
 tags:
--forensics
+- forensics
 description: Document xoring with given key, easy for
 categories:
 - SHELLCTF 22
