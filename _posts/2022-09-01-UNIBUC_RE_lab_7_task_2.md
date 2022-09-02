@@ -13,7 +13,8 @@ categories:
 This challenge is a challenge where we can modify bytes in memory using indices.
 
 Security of the binary:
-```Not stripped
+```
+Not stripped
 CANARY    : ENABLED
 FORTIFY   : disabled
 NX        : ENABLED

@@ -48,7 +48,7 @@ We can test this by inputing 45 characters and seeing if the number showed in th
 ![](/assets/img/2022-09-01-19-05-34.png)
 
 Now for the second approach:
-![](/assets/img/image.png.png)
+![](/assets/img/image.png.png(2))
 We look on the stack and see the space between the two variables.
 
 44 bytes between the two variables can be seen in the picture above. that is '\0'+43*'a'+'\0'
