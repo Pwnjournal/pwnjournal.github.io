@@ -11,7 +11,7 @@
                     <time itemprop="datePublished" datetime="{{ page.date }}">{{ page.date | date_to_string }}</time>
                 </div>
             {% endif %}
-            <h1 class="post-title" itemprop="name">{{ page.title | default: "" | cgi_escape }}</h1>
+            <h1 class="post-title" itemprop="name">{{ page.title | default: ""}}</h1>
 
             <article role="article" id="scroll" class="post-content" itemprop="articleBody">
                 {{ content }}
