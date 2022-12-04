@@ -2,7 +2,7 @@
 title: PwnJournal
 description: "A blog about ctf challenges and how to solve them"
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
-url: "https://pwnjournal.github.io/" #https://pwnjournal.github.io/ for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "https://pwnjournal.github.io" #https://pwnjournal.github.io/ for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: pwnjournal
