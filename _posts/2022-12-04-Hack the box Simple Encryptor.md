@@ -10,7 +10,7 @@ categories:
 - Hack The Box
 ---
 
-## Behind the Scenes
+## Simple Encryptor
 
 Very Easy  
 
