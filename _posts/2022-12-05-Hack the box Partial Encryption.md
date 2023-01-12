@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Hack the Box rev Partial Encryption
