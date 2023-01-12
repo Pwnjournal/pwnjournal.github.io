@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  Hack the Box Shoppy
+title:  Hack the Box pentest Shoppy
 image: /assets/img/HTB-Logo.png
-date:   2023-01-12 14:11:01
+date:   2023-01-12 15:49:01
 tags:
 - pentest
 description: Basic pentest challenge
 categories:
 - Hack The Box
+- Pentest
 ---
 
 ![](/assets/img/2023-01-12-15-04-47.png)
