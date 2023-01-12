@@ -10,6 +10,8 @@ categories:
 - Hack The Box
 ---
 
+![](/assets/img/2023-01-12-15-04-47.png)
+
 
 Run nmap on the IP we get 2 ports open, port 80 and port 22 for SSH:
 
